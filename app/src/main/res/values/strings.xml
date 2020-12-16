@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Menghitung Volume</string>
+    <string name="calculate" translatable="false">Hitung</string>
+    <string name="result" translatable="false">Hasil</string>
+    <string name="height" translatable="false">Tinggi</string>
+    <string name="length" translatable="false">Panjang</string>
+    <string name="width" translatable="false">Lebar</string>
+</resources>
